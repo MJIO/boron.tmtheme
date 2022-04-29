@@ -1,13 +1,13 @@
 # Boron
 
-### Sublime Text 2/3 Color Scheme
+### Sublime Text Color Scheme
 
 Colorful, dark color scheme based on the excellent Jellybeans color scheme for Vim.
 
-![Screenshot](http://mj.io/assets/misc/boron_theme_screenshot_1.png)
+![Screenshot](Screenshot.png)
 
 ## Installation
 
-Copy `Boron.tmTheme` to your default `../Sublime Text 2/Packages/User` directory.
+Copy the `Boron.tmTheme` file to your local `Sublime Text/Packages/User` directory.
 
-Or use the [Sublime Package Control](http://wbond.net/sublime_packages/package_control) plugin. The package is called `Boron Color Scheme`.
+Now you can select `Boron` in the Sublime Text Preferences.
